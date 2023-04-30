@@ -4,7 +4,7 @@
 
 <br>
 
-- 🔭 &nbsp;I’m currently working on something cool :wink:
+- 🔭 &nbsp;I’m currently working on an event web app :wink:
 - 🌱 &nbsp;I’m currently learning Rails
 - 💬 &nbsp;Ask me about anything related to Javascript/React or Ruby/Rails
 - ⚡ &nbsp;Fun fact: I :heart: Gaming, ask me about call of duty or Fifa
